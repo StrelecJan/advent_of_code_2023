@@ -4,6 +4,8 @@
 mod five;
 mod four;
 mod one;
+mod seven_one;
+mod seven_two;
 mod six;
 mod three;
 mod two;
