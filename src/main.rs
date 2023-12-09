@@ -1,6 +1,7 @@
 #![deny(clippy::all)]
 #![allow(dead_code)]
 
+mod eight;
 mod five;
 mod four;
 mod one;
